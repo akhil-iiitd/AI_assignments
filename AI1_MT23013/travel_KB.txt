@@ -1,0 +1,7 @@
+
+Paris:4.5:"Paris is such a romantic city! The Eiffel Tower at night is breathtaking.","I loved exploring the Louvre Museum. So much art and history!","The pastries in Paris are to die for. Croissants and macarons everywhere!"|
+New York City:4.0:"New York is the city that never sleeps. So much to see and do!","Central Park is a peaceful oasis in the midst of the bustling city.","Times Square is truly electrifying at night."|
+Pattaya:3.8:"Pattaya has beautiful beaches, but it can get crowded in peak season.","The local street food in Pattaya is delicious and affordable.","The Sanctuary of Truth is a must-visit for its intricate wooden architecture."|
+Munnar:4.2:"Munnar's tea plantations are a sight to behold. The weather is so pleasant.","I enjoyed trekking in the Western Ghats around Munnar.","The local South Indian cuisine in Munnar is a treat for the taste buds."|
+Lyon:4.3:"Lyon's culinary scene is outstanding. A food lover's paradise!","The Basilica of Notre-Dame de Fourvière offers stunning views of the city.","Lyon's traboules are fascinating to explore."|
+Antwerp:4.1:"Antwerp's historic district is charming. Don't miss the cathedral.","The Diamond District in Antwerp is a unique place to visit.","Antwerp Zoo is a great family-friendly attraction."
